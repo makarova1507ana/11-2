@@ -1,6 +1,6 @@
 # самый классный модуль maths 
 ## как скачать
-1. скачать файл maths.h
+1. [скачать файл maths.h](https://github.com/makarova1507ana/11-2/blob/main/maths.h)
 ![image](https://github.com/makarova1507ana/11-2/assets/103330304/db8a41ba-bd6f-4f57-92da-265eda9e2c70)
 2. переместить файл в папку с проектом
  ![image](https://github.com/makarova1507ana/11-2/assets/103330304/248a8df3-ead3-40aa-9b0c-fa3af374e54f)
