@@ -1,28 +1,28 @@
-# Практика Markdown
+# самый классный модуль maths 
 ## стандарты кодирования
 [правила](https://google.github.io/styleguide/cppguide.html)
 ## Функция для сложения двух чисел
 >Принимает два значения *double*
 >Возвращает их сумму в *double*
-```c++
-double Add(double a, double b)
-{
-	return a + b;
-}
-```
+>```c++
+>double Add(double a, double b)
+>{
+>	return a + b;
+>}
+>```
 Пример использования:
-```c++
-Add(-3.7, 4)
-// ввозвращает 0.3
-```
+>```c++
+>Add(-3.7, 4)
+>// ввозвращает 0.3
+>```
  
 ## Функция для вычитания одного числа из другого
 >Вычитает из первого переданного значения второе
 ```с++
-double Sub(double a, double b)
-{
-	return a - b;
-}
+>double Sub(double a, double b)
+>{
+>	return a - b;
+>}
 ```
 >Пример использования:
 >```с++
